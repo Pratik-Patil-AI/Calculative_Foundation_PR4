@@ -286,9 +286,9 @@ It combines mathematical theory, numerical computation, Python programming, and 
 
 ## 👨‍💻 Author
 
-**Darshan Patil**
+**Pratik Patil**
 
-GitHub: [Darshan-Patil115](https://github.com/Darshan-Patil115)
+GitHub: [@Pratik-Patil-AI](https://github.com/Pratik-Patil-AI)
 
 **Project:** Calculative Foundation – Mathematical & Linear Algebra Analysis (PR-4)
 
